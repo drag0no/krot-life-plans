@@ -133,6 +133,71 @@ After acquiring the home outright with cash, the family preserves **~€610,000 
 * **Crypto Sleeve (30%–35%):** **~SGD 450,000–600,000 (~€315k–420k)**.
 * **Active Trading Sleeve:** **~€320,000–€420,000** deployed in Pavel's quarterly rebalancing strategy and sovereign bonds, generating recurring distributions.
 
+### 3.3 Preferred Property & Neighborhood Shortlist (Stay / Acquisition)
+
+Whether executing an initial 1-year registered lease for consular D7 approval or proceeding directly to a cash purchase, properties must satisfy the family invariants from [00A_JURISDICTION_COMPARISON.md](00A_JURISDICTION_COMPARISON.md): modern 3-bedroom, 2-bathroom layout (T3 built post-2018 with double garage and central heating/cooling), strict adherence to the **≤50% net worth ceiling (€520k–€590k)**, flat paved terrain for rollerblading and strollers, and proximity to surf breaks.
+
+The following 6 locations represent Portugal's top residential candidates:
+
+#### 1. Matosinhos Sul (Greater Porto) — Oceanfront Promenade, Doorstep Surfing, Modern T3 Housing & Metro
+* **Focus & Vibe:** Contemporary seaside urban district immediately north of Porto's Parque da Cidade. Wide, paved boulevards, vibrant cafe culture, and Portugal's premier seafood dining scene.
+* **Property Market & Cap Compliance:** Modern T3 apartments (130–160 m², built 2019–2024, energy rating A/B, private double garage, Daikin heat-pump climate control) trade for **€380,000 to €460,000** (~SGD 540k–655k). Consumes **36% to 42% of net worth**, comfortably below the 50% cap. Long-term furnished rent: **€1,600 to €2,200/month**.
+* **Rollerblading & Stroller Terrain:** World-class. Over 5 km of continuous, flat, smooth asphalt promenade running along Matosinhos beach southward toward Foz do Douro and northward across the bridge to Leça. Zero cobblestones on the coastal path.
+* **Surfing & Outdoor Sports:** Doorstep Atlantic beach break at Praia de Matosinhos (consistent year-round waves with dozens of surf academies). Holmes Place Matosinhos Sul (premium health club with indoor pool) within walking distance.
+* **Transit & Family Logistics:** Metro do Porto Blue Line (Matosinhos Sul station) connects to central Porto (Trindade) in 20 minutes and Porto Airport (OPO) in 25 minutes. Pingo Doce, Continente Bomdia, and local organic markets within 200 meters.
+
+#### 2. Parque das Nações (Lisbon) — "Singapore Clone", Master-Planned Modernity & Tech Cluster
+* **Focus & Vibe:** Built for Expo '98 along the Tagus River estuary. Lisbon's most modern, pristine, and infrastructure-rich district with wide avenues, underground utilities, and automated pneumatic waste collection.
+* **Property Market & Cap Compliance:** Modern T3 apartments in Parque das Nações Norte trade for **€440,000 to €520,000** (~SGD 625k–740k). Consumes **42% to 48% of net worth**, safely within the 50% cap. Long-term furnished rent: **€1,900 to €2,600/month**.
+* **Rollerblading & Stroller Terrain:** Exceptional. The Tagus riverfront promenade (*Passeio das Tágides*) offers 5+ km of wide, completely flat paved boardwalk and smooth asphalt paths past the Vasco da Gama Tower and Oceanarium. Completely free of Lisbon's traditional calçada cobblestones.
+* **Sports & Lifestyle:** Excellent waterfront jogging, padel courts, and sailing clubs along the marina. Surfing requires a 25-minute drive to Carcavelos or Costa da Caparica.
+* **Transit & Logistics:** Gare do Oriente multi-modal transit hub (Metro Red Line, high-speed rail, regional express buses). Direct 7-minute metro ride to Lisbon Portela Airport (LIS).
+
+#### 3. Foz do Douro & Nevogilde (Porto) — Prestigious Seaside Enclave, British Schools & Parque da Cidade
+* **Focus & Vibe:** Porto's most distinguished heritage coastal neighborhood where the Douro River meets the Atlantic Ocean. Tree-lined residential streets, 19th-century villas, and upscale waterfront promenades.
+* **Property Market & Cap Compliance:** High-end residential market. High-spec modern T3 apartments trade for **€480,000 to €570,000** (~SGD 680k–810k). At the upper end, it approaches the 50% net worth ceiling (~46%–49% of NW). Long-term rent: **€2,000 to €2,800/month**.
+* **Rollerblading & Stroller Terrain:** Scenic coastal asphalt promenade running from the Farol de Felgueiras lighthouse north along the Atlantic beaches. Direct walking access to Parque da Cidade (83 hectares of lush parkland with paved paths).
+* **Family & Education:** Immediate proximity to Oporto British School (oldest British school in mainland Europe) and The Lycée Français International de Porto.
+* **Surfing & Leisure:** Praia do Homem do Leme and Praia da Luz offer scenic coastline, with consistent surf breaks 5 minutes north at Matosinhos beach.
+
+#### 4. Carcavelos & Oeiras (Lisbon Coast / Tech Valley) — Premier Surf Swells, Nova SBE Hub & Taguspark
+* **Focus & Vibe:** Coastal tech and education corridor between central Lisbon and Cascais. Home to Nova School of Business and Economics, Taguspark science/tech park, and multinational corporate headquarters.
+* **Property Market & Cap Compliance:** Contemporary 3-bedroom apartments in Quinta do Marquês or Carcavelos Sul trade for **€450,000 to €540,000** (~SGD 640k–770k), consuming **43% to 47% of net worth**. Furnished rent: **€1,800 to €2,500/month**.
+* **Surfing:** The premier surf beach of the Lisbon coastline. Praia de Carcavelos produces powerful Atlantic hollow beach break barrels in autumn/winter and accessible summer waves for training.
+* **Rollerblading & Stroller Terrain:** The Oeiras promenade (*Passeio Marítimo de Oeiras*) provides 3.5 km of continuous flat seafront path, though parts can be crowded with pedestrians on weekends.
+* **Transit & Education:** Linha de Cascais commuter train reaches Cais do Sodré (Lisbon) in 20 minutes. St. Julian’s School (prestigious British/IB school) is located directly adjacent to Carcavelos beach.
+
+#### 5. Leça da Palmeira (Greater Porto) — Peaceful Coastal Community, Surf Reefs & High Capital Efficiency
+* **Focus & Vibe:** Charming seaside municipality located directly across the mobile bridge north of Matosinhos harbor. Highly residential, family-oriented, and substantially quieter than central Porto.
+* **Property Market & Cap Compliance:** Highest capital efficiency in Greater Porto. Spacious modern T3 apartments (built 2018–2023) trade for **€320,000 to €400,000** (~SGD 455k–570k). Consumes only **30% to 36% of net worth**, preserving maximum liquidity for trading operations. Furnished rent: **€1,400 to €1,900/month**.
+* **Sports & Surfing:** Leça beach (*Praia de Leça*) features powerful jetty and reef surf breaks favored by advanced surfers. Home to the architectural landmark *Piscina das Marés* (saltwater tidal pools designed by Álvaro Siza Vieira).
+* **Rollerblading & Stroller Mobility:** Flat oceanfront promenade with smooth paved sidewalks running from the marina north past the Boa Nova tea house.
+* **Transit & Logistics:** 10 minutes to Porto International Airport (OPO); 25 minutes by car or bus/metro to downtown Porto.
+
+#### 6. Cascais & Estoril (Lisbon Coast) — Expat Coastal Luxury, International Schools & Cascais Paredão
+* **Focus & Vibe:** The historic "Portuguese Riviera." Upscale coastal resort town with a sheltered marina, high expat density, boutique shopping, and Michelin-starred dining.
+* **Property Market & Cap Compliance:** Expensive residential market. Modern T3 apartments frequently trade for **€510,000 to €590,000+**, pushing against the absolute maximum 50% cap (€520k–€590k) and often requiring older housing stock to stay compliant. Rental strategy (**€2,200 to €3,000/month**) is strongly recommended if choosing this area.
+* **Rollerblading & Stroller Terrain:** The *Paredão de Cascais* is a flat 3 km seawall promenade stretching from Cascais to São João do Estoril. Spectacular ocean views and smooth paving, though foot traffic can be dense during daytime hours.
+* **Education & Surfing:** Highest concentration of top international private schools (TASIS Portugal, CAISL, St. George’s). Praia do Guincho (10 min drive) offers world-class kitesurfing and heavy Atlantic swells.
+
+#### Portugal Property & Settlement Comparative Matrix
+
+| Location | Region | Primary Focus / Niche | Est. T3 Purchase Price | Est. Monthly Rent (Furnished T3) | Rollerblade & Stroller Pavement | Surfing Proximity | 50% Cap Compliance |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Matosinhos Sul** | Greater Porto | Oceanfront promenade, doorstep surf, metro, dining | **€380k–€460k** | €1.6k–€2.2k | **10/10** (5+ km continuous flat asphalt) | **10/10** (Doorstep beach break) | **Comfortable** (~36%–42% NW) |
+| **Parque das Nações** | Lisbon | "Singapore clone", modern grid, Gare do Oriente | **€440k–€520k** | €1.9k–€2.6k | **9.5/10** (5+ km riverfront boardwalk) | 3/10 (25-min drive to coast) | **Compliant** (~42%–48% NW) |
+| **Foz do Douro** | Porto | Leafy seaside luxury, British schools, Parque da Cidade | **€480k–€570k** | €2.0k–€2.8k | **8.5/10** (Scenic coastal + park paths) | 8/10 (5-min drive to Matosinhos) | **Tight** (~46%–49% NW) |
+| **Carcavelos / Oeiras** | Lisbon Coast | Premier surf beach, Nova SBE, Taguspark tech | **€450k–€540k** | €1.8k–€2.5k | **8/10** (3.5 km Oeiras promenade) | **10/10** (Top hollow beach break) | **Compliant** (~43%–47% NW) |
+| **Leça da Palmeira** | Greater Porto | High value, quiet coastal living, airport access | **€320k–€400k** | €1.4k–€1.9k | **8/10** (Flat oceanside promenade) | **9/10** (Consistent reef/jetty break) | **S-Tier** (~30%–36% NW) |
+| **Cascais / Estoril** | Lisbon Coast | Expat luxury, international school density, marina | **€510k–€590k+** | €2.2k–€3.0k | **8/10** (3 km Paredão seawall) | 9/10 (Guincho / Carcavelos nearby) | **At Ceiling** (Rent advised) |
+
+#### Overall Winner: Matosinhos Sul (Greater Porto)
+* **Why It Wins:** Matosinhos Sul is the undisputed #1 operational fit for Pavel and Anna in Portugal:
+  1. **Strict 50% Cap Compliance:** Modern, high-specification T3 apartments (built post-2019 with A-rated energy efficiency, Daikin climate control, and double garage boxes) trade at €380k–€460k, consuming only 36%–42% of household net worth. This leaves over €650,000 (~SGD 930k) in liquid capital actively compounding in Pavel's 15% CAGR trading engine.
+  2. **Pavel's Outdoor Passion Alignment:** World-class rollerblading infrastructure with a completely flat, wide, continuous 5+ km seaside asphalt strip connecting Matosinhos beach through Parque da Cidade to Foz do Douro. Doorstep surfing at Praia de Matosinhos allows quick morning surf sessions without getting into a car.
+  3. **Anna's Family Environment:** Immediate walking access to Parque da Cidade (83 hectares of manicured green parkland, lakes, and shaded trails) for calm stroller walks with the baby; top-tier coastal air quality and zero industrial heavy traffic.
+  4. **Urban Frictionlessness:** Metro do Porto Blue Line delivers direct 20-minute rapid transit to Porto center and 25-minute transit to Porto International Airport (OPO) with zero traffic bottlenecks. English and Brazilian Portuguese fluency provide 100% barrier-free integration.
+
 
 ## 4. SINGAPORE-GRADE LIFE EFFICIENCY & DAILY LOGISTICS
 
@@ -153,6 +218,7 @@ Assessing everyday urban friction against the 8-year Singapore gold standard:
   * **Lisbon Metro:** Red Line connects Parque das Nações (Gare do Oriente) to Lisbon Airport in 7 minutes (3 stops) and central Lisbon in 15 minutes.
 
 ### 4.3 Urban Hub Selection & Rollerblading Infrastructure
+*(See Section 3.3 above for the comprehensive 6-neighborhood property and settlement comparative matrix).*
 
 #### Option 1: Matosinhos Sul & Leça da Palmeira (Greater Porto) — Overall Top Pick
 * **Rollerblading Infrastructure:** Exceptional. Wide, flat, smooth asphalt coastal promenades stretch continuously from the Matosinhos beach promenade north across the mobile bridge to Leça da Palmeira, and south past the City Park (*Parque da Cidade*) toward Foz do Douro. Completely separated from vehicular traffic.
@@ -247,3 +313,20 @@ Portugal's May 2026 nationality reforms overhauled the 1981 Nationality Law, end
 * **DON'T count residency time from your initial visa or biometrics date:** Under *Lei Orgânica n.º 1/2026*, the 7-year citizenship clock begins strictly on the issue date printed on your first physical residence card.
 * **DON'T breach Portuguese physical stay thresholds:** Remaining outside Portugal for more than 6 consecutive months or 8 non-consecutive months in a calendar period resets the statutory residency clock.
 * **DON'T register an unnecessary Portuguese company for trading:** Trading personal capital through an individual Interactive Brokers LLC account is fully compliant, avoiding corporate accounting overhead and corporate taxes.
+
+
+## 9. PROFESSIONAL CAREER ECOSYSTEM (TECH, GAMEDEV & LUSOPHONE ENERGY)
+
+Portugal offers a balanced, high-lifestyle ecosystem supporting remote engineering and European energy infrastructure:
+
+### 9.1 For Pavel: European Tech Hub & Growing Indie GameDev Scene
+* **Flourishing Tech & Nomad Capital:** Lisbon and Porto are established European tech centers (hosting Web Summit, startup accelerators, and international engineering engineering offices for companies like Cloudflare, Revolut, and Datadog).
+* **Indie Game Development Community:** Portugal features a passionate, highly collaborative indie game development ecosystem:
+  * **Industry Associations & Events:** Supported by APVP (*Associação de Produtores de Videojogos Portugueses*), Portugal hosts major annual gatherings including **Indie X**, **Lisbon Games Week**, and **DevGAMM Lisbon**.
+  * **Incubation & Learning:** University game labs and indie co-working spaces in Lisbon (e.g., Beato Innovation District) and Porto provide accessible networks for solo developers learning game dev, participating in game jams, and sharing playtests for pet projects.
+
+### 9.2 For Anna: Strategic LNG Infrastructure & Linguistic Superpower
+* **Strategic Natural Gas & LNG Gateway:** Portugal's primary energy lifeline is the **Sines Deep-Water Port and LNG Import Terminal** (operated by REN Atlântico), featuring dedicated cryogenic storage tanks and regasification capacity feeding the Iberian gas grid.
+* **Major Energy Players:** Lisbon hosts the corporate headquarters of **Galp Energia** and regional trading desks managing LNG imports from West Africa and the Americas.
+* **Intermediate Portuguese Fluency:** Anna’s existing **intermediate Portuguese** language capability represents an immense competitive advantage, allowing her to engage directly with local maritime port authorities, corporate energy desks, and legal frameworks without language barriers.
+
